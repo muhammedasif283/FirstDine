@@ -1,9 +1,0 @@
-{
-  "name": "food-order-app-root",
-  "private": true,
-  "scripts": {
-    "dev": "npm --prefix firstdine-react run dev",
-    "build": "npm --prefix firstdine-react run build",
-    "preview": "npm --prefix firstdine-react run preview"
-  }
-}
