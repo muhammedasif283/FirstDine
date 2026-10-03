@@ -1,0 +1,22 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "npm",
+      "script": "dev",
+      "path": "firstdine-react",
+      "problemMatcher": [],
+      "label": "npm: dev (firstdine-react)",
+      "detail": "vite",
+      "isBackground": true
+    },
+    {
+      "type": "npm",
+      "script": "build",
+      "path": "firstdine-react",
+      "problemMatcher": [],
+      "label": "npm: build (firstdine-react)",
+      "detail": "vite build"
+    }
+  ]
+}
